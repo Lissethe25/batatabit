@@ -1,0 +1,28 @@
+html{
+    font-size:80%
+}
+
+.main-currency-table .currency-table--date, .main-right-table .right-table--date {
+    width: 250px;
+    margin-top:25px;
+}
+
+.header--title-container{
+    max-width: 2560px;
+}
+
+.header--title-container .header--buttom{
+    width:280px;
+    height:55px;
+}
+.plans-container--slider {
+    display: flex;
+    height: 360px;
+}
+.plans-container-card, .plans-container-card-recomended {
+    height:300px;
+}
+.recomendado {
+    width:120px;
+    left: calc(50% - 60px);
+}
